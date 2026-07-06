@@ -1,0 +1,357 @@
+2026-07-03 11:19:20,616 [INFO] ML model loaded successfully.
+2026-07-03 11:19:20,624 [INFO] Feature scaler loaded successfully.
+2026-07-03 11:19:20,628 [INFO] Dataset stats loaded successfully. Total countries: 36
+2026-07-03 11:19:20,701 [INFO] Prediction made for Germany: HDI 0.942
+2026-07-03 11:26:04,225 [INFO] ML model loaded successfully.
+2026-07-03 11:26:04,226 [INFO] Feature scaler loaded successfully.
+2026-07-03 11:26:04,230 [INFO] Dataset stats loaded successfully. Total countries: 36
+2026-07-03 11:26:04,268 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-07-03 11:26:04,268 [INFO] [33mPress CTRL+C to quit[0m
+2026-07-03 11:26:04,269 [INFO]  * Restarting with stat
+2026-07-03 11:26:06,238 [INFO] ML model loaded successfully.
+2026-07-03 11:26:06,238 [INFO] Feature scaler loaded successfully.
+2026-07-03 11:26:06,243 [INFO] Dataset stats loaded successfully. Total countries: 36
+2026-07-03 11:26:06,255 [WARNING]  * Debugger is active!
+2026-07-03 11:26:06,269 [INFO]  * Debugger PIN: 105-555-039
+2026-07-03 11:32:56,712 [INFO] 127.0.0.1 - - [03/Jul/2026 11:32:56] "GET / HTTP/1.1" 200 -
+2026-07-03 11:32:56,866 [INFO] 127.0.0.1 - - [03/Jul/2026 11:32:56] "GET /static/css/style.css HTTP/1.1" 200 -
+2026-07-03 11:32:58,025 [INFO] 127.0.0.1 - - [03/Jul/2026 11:32:58] "GET /static/plots/correlation_matrix.png HTTP/1.1" 200 -
+2026-07-03 11:32:58,026 [INFO] 127.0.0.1 - - [03/Jul/2026 11:32:58] "GET /static/plots/hdi_distribution.png HTTP/1.1" 200 -
+2026-07-03 11:32:58,040 [INFO] 127.0.0.1 - - [03/Jul/2026 11:32:58] "GET /static/js/script.js HTTP/1.1" 200 -
+2026-07-03 11:32:58,062 [INFO] 127.0.0.1 - - [03/Jul/2026 11:32:58] "GET /static/plots/gni_vs_hdi_scatter.png HTTP/1.1" 200 -
+2026-07-03 11:33:00,169 [INFO] 127.0.0.1 - - [03/Jul/2026 11:33:00] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-07-03 11:33:04,316 [INFO] 127.0.0.1 - - [03/Jul/2026 11:33:04] "GET /about HTTP/1.1" 200 -
+2026-07-03 11:33:04,339 [INFO] 127.0.0.1 - - [03/Jul/2026 11:33:04] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-03 11:33:04,369 [INFO] 127.0.0.1 - - [03/Jul/2026 11:33:04] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2026-07-03 11:33:10,987 [INFO] 127.0.0.1 - - [03/Jul/2026 11:33:10] "GET / HTTP/1.1" 200 -
+2026-07-03 11:33:11,005 [INFO] 127.0.0.1 - - [03/Jul/2026 11:33:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-03 11:33:11,009 [INFO] 127.0.0.1 - - [03/Jul/2026 11:33:11] "[36mGET /static/plots/correlation_matrix.png HTTP/1.1[0m" 304 -
+2026-07-03 11:33:11,020 [INFO] 127.0.0.1 - - [03/Jul/2026 11:33:11] "[36mGET /static/plots/hdi_distribution.png HTTP/1.1[0m" 304 -
+2026-07-03 11:33:11,044 [INFO] 127.0.0.1 - - [03/Jul/2026 11:33:11] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2026-07-03 11:33:11,047 [INFO] 127.0.0.1 - - [03/Jul/2026 11:33:11] "[36mGET /static/plots/gni_vs_hdi_scatter.png HTTP/1.1[0m" 304 -
+2026-07-03 11:41:32,471 [INFO] ML model loaded successfully.
+2026-07-03 11:41:32,473 [INFO] Feature scaler loaded successfully.
+2026-07-03 11:41:32,483 [INFO] Dataset stats loaded successfully. Total countries: 36
+2026-07-03 11:41:32,534 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-07-03 11:41:32,534 [INFO] [33mPress CTRL+C to quit[0m
+2026-07-03 11:41:32,538 [INFO]  * Restarting with stat
+2026-07-03 11:41:37,313 [INFO] ML model loaded successfully.
+2026-07-03 11:41:37,315 [INFO] Feature scaler loaded successfully.
+2026-07-03 11:41:37,327 [INFO] Dataset stats loaded successfully. Total countries: 36
+2026-07-03 11:41:37,357 [WARNING]  * Debugger is active!
+2026-07-03 11:41:37,363 [INFO]  * Debugger PIN: 105-555-039
+2026-07-03 11:41:47,591 [INFO]  * Detected change in 'C:\\Users\\User\\.gemini\\antigravity\\scratch\\hdi_predictor\\tests\\test_app.py', reloading
+2026-07-03 11:41:47,999 [INFO]  * Restarting with stat
+2026-07-03 11:41:52,957 [INFO] ML model loaded successfully.
+2026-07-03 11:41:52,959 [INFO] Feature scaler loaded successfully.
+2026-07-03 11:41:52,969 [INFO] Dataset stats loaded successfully. Total countries: 36
+2026-07-03 11:41:52,999 [WARNING]  * Debugger is active!
+2026-07-03 11:41:53,006 [INFO]  * Debugger PIN: 105-555-039
+2026-07-03 11:42:16,141 [INFO] ML model loaded successfully.
+2026-07-03 11:42:16,143 [INFO] Feature scaler loaded successfully.
+2026-07-03 11:42:16,153 [INFO] Dataset stats loaded successfully. Total countries: 36
+2026-07-03 11:42:16,316 [INFO] Prediction made for Germany: HDI 0.942
+2026-07-03 11:42:40,605 [INFO] 127.0.0.1 - - [03/Jul/2026 11:42:40] "GET /login HTTP/1.1" 200 -
+2026-07-03 11:42:40,815 [INFO] 127.0.0.1 - - [03/Jul/2026 11:42:40] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-03 11:42:45,420 [INFO] User logged in successfully.
+2026-07-03 11:42:45,422 [INFO] 127.0.0.1 - - [03/Jul/2026 11:42:45] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-07-03 11:42:45,471 [INFO] 127.0.0.1 - - [03/Jul/2026 11:42:45] "GET / HTTP/1.1" 200 -
+2026-07-03 11:42:45,504 [INFO] 127.0.0.1 - - [03/Jul/2026 11:42:45] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-03 11:42:45,506 [INFO] 127.0.0.1 - - [03/Jul/2026 11:42:45] "[36mGET /static/plots/correlation_matrix.png HTTP/1.1[0m" 304 -
+2026-07-03 11:42:45,512 [INFO] 127.0.0.1 - - [03/Jul/2026 11:42:45] "[36mGET /static/plots/hdi_distribution.png HTTP/1.1[0m" 304 -
+2026-07-03 11:42:45,522 [INFO] 127.0.0.1 - - [03/Jul/2026 11:42:45] "[36mGET /static/plots/gni_vs_hdi_scatter.png HTTP/1.1[0m" 304 -
+2026-07-03 11:42:45,524 [INFO] 127.0.0.1 - - [03/Jul/2026 11:42:45] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2026-07-03 11:42:55,390 [INFO] 127.0.0.1 - - [03/Jul/2026 11:42:55] "GET / HTTP/1.1" 200 -
+2026-07-03 11:42:55,423 [INFO] 127.0.0.1 - - [03/Jul/2026 11:42:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-03 11:42:55,437 [INFO] 127.0.0.1 - - [03/Jul/2026 11:42:55] "[36mGET /static/plots/hdi_distribution.png HTTP/1.1[0m" 304 -
+2026-07-03 11:42:55,444 [INFO] 127.0.0.1 - - [03/Jul/2026 11:42:55] "[36mGET /static/plots/correlation_matrix.png HTTP/1.1[0m" 304 -
+2026-07-03 11:42:55,449 [INFO] 127.0.0.1 - - [03/Jul/2026 11:42:55] "[36mGET /static/plots/gni_vs_hdi_scatter.png HTTP/1.1[0m" 304 -
+2026-07-03 11:42:55,455 [INFO] 127.0.0.1 - - [03/Jul/2026 11:42:55] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2026-07-03 11:42:56,004 [INFO] 127.0.0.1 - - [03/Jul/2026 11:42:56] "GET /about HTTP/1.1" 200 -
+2026-07-03 11:42:56,022 [INFO] 127.0.0.1 - - [03/Jul/2026 11:42:56] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-03 11:42:56,025 [INFO] 127.0.0.1 - - [03/Jul/2026 11:42:56] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2026-07-03 11:43:05,565 [INFO] 127.0.0.1 - - [03/Jul/2026 11:43:05] "GET / HTTP/1.1" 200 -
+2026-07-03 11:43:05,619 [INFO] 127.0.0.1 - - [03/Jul/2026 11:43:05] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-03 11:43:05,631 [INFO] 127.0.0.1 - - [03/Jul/2026 11:43:05] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2026-07-03 11:43:05,636 [INFO] 127.0.0.1 - - [03/Jul/2026 11:43:05] "[36mGET /static/plots/gni_vs_hdi_scatter.png HTTP/1.1[0m" 304 -
+2026-07-03 11:43:05,647 [INFO] 127.0.0.1 - - [03/Jul/2026 11:43:05] "[36mGET /static/plots/hdi_distribution.png HTTP/1.1[0m" 304 -
+2026-07-03 11:43:05,650 [INFO] 127.0.0.1 - - [03/Jul/2026 11:43:05] "[36mGET /static/plots/correlation_matrix.png HTTP/1.1[0m" 304 -
+2026-07-03 11:43:07,888 [INFO] 127.0.0.1 - - [03/Jul/2026 11:43:07] "GET /about HTTP/1.1" 200 -
+2026-07-03 11:43:07,945 [INFO] 127.0.0.1 - - [03/Jul/2026 11:43:07] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-03 11:43:07,951 [INFO] 127.0.0.1 - - [03/Jul/2026 11:43:07] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2026-07-03 11:43:11,439 [INFO] 127.0.0.1 - - [03/Jul/2026 11:43:11] "GET / HTTP/1.1" 200 -
+2026-07-03 11:43:11,466 [INFO] 127.0.0.1 - - [03/Jul/2026 11:43:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-03 11:43:11,495 [INFO] 127.0.0.1 - - [03/Jul/2026 11:43:11] "[36mGET /static/plots/hdi_distribution.png HTTP/1.1[0m" 304 -
+2026-07-03 11:43:11,501 [INFO] 127.0.0.1 - - [03/Jul/2026 11:43:11] "[36mGET /static/plots/correlation_matrix.png HTTP/1.1[0m" 304 -
+2026-07-03 11:43:11,505 [INFO] 127.0.0.1 - - [03/Jul/2026 11:43:11] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2026-07-03 11:43:11,512 [INFO] 127.0.0.1 - - [03/Jul/2026 11:43:11] "[36mGET /static/plots/gni_vs_hdi_scatter.png HTTP/1.1[0m" 304 -
+2026-07-03 11:44:49,376 [INFO] User logged out.
+2026-07-03 11:44:49,377 [INFO] 127.0.0.1 - - [03/Jul/2026 11:44:49] "[32mGET /logout HTTP/1.1[0m" 302 -
+2026-07-03 11:44:49,394 [INFO] 127.0.0.1 - - [03/Jul/2026 11:44:49] "GET /login HTTP/1.1" 200 -
+2026-07-03 11:44:49,412 [INFO] 127.0.0.1 - - [03/Jul/2026 11:44:49] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-03 11:45:00,162 [INFO] User logged in successfully.
+2026-07-03 11:45:00,163 [INFO] 127.0.0.1 - - [03/Jul/2026 11:45:00] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-07-03 11:45:00,180 [INFO] 127.0.0.1 - - [03/Jul/2026 11:45:00] "GET / HTTP/1.1" 200 -
+2026-07-03 11:45:00,212 [INFO] 127.0.0.1 - - [03/Jul/2026 11:45:00] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-03 11:45:00,215 [INFO] 127.0.0.1 - - [03/Jul/2026 11:45:00] "[36mGET /static/plots/correlation_matrix.png HTTP/1.1[0m" 304 -
+2026-07-03 11:45:00,228 [INFO] 127.0.0.1 - - [03/Jul/2026 11:45:00] "[36mGET /static/plots/hdi_distribution.png HTTP/1.1[0m" 304 -
+2026-07-03 11:45:00,230 [INFO] 127.0.0.1 - - [03/Jul/2026 11:45:00] "[36mGET /static/plots/gni_vs_hdi_scatter.png HTTP/1.1[0m" 304 -
+2026-07-03 11:45:00,232 [INFO] 127.0.0.1 - - [03/Jul/2026 11:45:00] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2026-07-03 11:46:01,586 [INFO] 127.0.0.1 - - [03/Jul/2026 11:46:01] "GET /about HTTP/1.1" 200 -
+2026-07-03 11:46:01,610 [INFO] 127.0.0.1 - - [03/Jul/2026 11:46:01] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-03 11:46:01,614 [INFO] 127.0.0.1 - - [03/Jul/2026 11:46:01] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2026-07-03 11:46:05,585 [INFO] 127.0.0.1 - - [03/Jul/2026 11:46:05] "GET / HTTP/1.1" 200 -
+2026-07-03 11:46:05,607 [INFO] 127.0.0.1 - - [03/Jul/2026 11:46:05] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-03 11:46:05,611 [INFO] 127.0.0.1 - - [03/Jul/2026 11:46:05] "[36mGET /static/plots/correlation_matrix.png HTTP/1.1[0m" 304 -
+2026-07-03 11:46:05,617 [INFO] 127.0.0.1 - - [03/Jul/2026 11:46:05] "[36mGET /static/plots/hdi_distribution.png HTTP/1.1[0m" 304 -
+2026-07-03 11:46:05,624 [INFO] 127.0.0.1 - - [03/Jul/2026 11:46:05] "[36mGET /static/plots/gni_vs_hdi_scatter.png HTTP/1.1[0m" 304 -
+2026-07-03 11:46:05,629 [INFO] 127.0.0.1 - - [03/Jul/2026 11:46:05] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2026-07-03 11:46:10,911 [INFO] 127.0.0.1 - - [03/Jul/2026 11:46:10] "GET /about HTTP/1.1" 200 -
+2026-07-03 11:46:10,931 [INFO] 127.0.0.1 - - [03/Jul/2026 11:46:10] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-03 11:46:10,936 [INFO] 127.0.0.1 - - [03/Jul/2026 11:46:10] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2026-07-03 11:46:16,349 [INFO] 127.0.0.1 - - [03/Jul/2026 11:46:16] "GET / HTTP/1.1" 200 -
+2026-07-03 11:46:16,369 [INFO] 127.0.0.1 - - [03/Jul/2026 11:46:16] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-03 11:46:16,386 [INFO] 127.0.0.1 - - [03/Jul/2026 11:46:16] "[36mGET /static/plots/correlation_matrix.png HTTP/1.1[0m" 304 -
+2026-07-03 11:46:16,390 [INFO] 127.0.0.1 - - [03/Jul/2026 11:46:16] "[36mGET /static/plots/gni_vs_hdi_scatter.png HTTP/1.1[0m" 304 -
+2026-07-03 11:46:16,393 [INFO] 127.0.0.1 - - [03/Jul/2026 11:46:16] "[36mGET /static/plots/hdi_distribution.png HTTP/1.1[0m" 304 -
+2026-07-03 11:46:16,404 [INFO] 127.0.0.1 - - [03/Jul/2026 11:46:16] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2026-07-03 11:46:27,990 [INFO] User logged out.
+2026-07-03 11:46:27,990 [INFO] 127.0.0.1 - - [03/Jul/2026 11:46:27] "[32mGET /logout HTTP/1.1[0m" 302 -
+2026-07-03 11:46:28,001 [INFO] 127.0.0.1 - - [03/Jul/2026 11:46:28] "GET /login HTTP/1.1" 200 -
+2026-07-03 11:46:28,018 [INFO] 127.0.0.1 - - [03/Jul/2026 11:46:28] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-03 11:47:26,697 [INFO] User logged in successfully.
+2026-07-03 11:47:26,698 [INFO] 127.0.0.1 - - [03/Jul/2026 11:47:26] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-07-03 11:47:26,712 [INFO] 127.0.0.1 - - [03/Jul/2026 11:47:26] "GET / HTTP/1.1" 200 -
+2026-07-03 11:47:26,747 [INFO] 127.0.0.1 - - [03/Jul/2026 11:47:26] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-03 11:47:26,753 [INFO] 127.0.0.1 - - [03/Jul/2026 11:47:26] "[36mGET /static/plots/correlation_matrix.png HTTP/1.1[0m" 304 -
+2026-07-03 11:47:26,755 [INFO] 127.0.0.1 - - [03/Jul/2026 11:47:26] "[36mGET /static/plots/hdi_distribution.png HTTP/1.1[0m" 304 -
+2026-07-03 11:47:26,764 [INFO] 127.0.0.1 - - [03/Jul/2026 11:47:26] "[36mGET /static/plots/gni_vs_hdi_scatter.png HTTP/1.1[0m" 304 -
+2026-07-03 11:47:26,772 [INFO] 127.0.0.1 - - [03/Jul/2026 11:47:26] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2026-07-03 11:47:42,112 [INFO] 127.0.0.1 - - [03/Jul/2026 11:47:42] "GET /about HTTP/1.1" 200 -
+2026-07-03 11:47:42,144 [INFO] 127.0.0.1 - - [03/Jul/2026 11:47:42] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-03 11:47:42,164 [INFO] 127.0.0.1 - - [03/Jul/2026 11:47:42] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2026-07-03 11:47:55,033 [INFO] 127.0.0.1 - - [03/Jul/2026 11:47:55] "GET / HTTP/1.1" 200 -
+2026-07-03 11:47:55,065 [INFO] 127.0.0.1 - - [03/Jul/2026 11:47:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-03 11:47:55,067 [INFO] 127.0.0.1 - - [03/Jul/2026 11:47:55] "[36mGET /static/plots/correlation_matrix.png HTTP/1.1[0m" 304 -
+2026-07-03 11:47:55,077 [INFO] 127.0.0.1 - - [03/Jul/2026 11:47:55] "[36mGET /static/plots/hdi_distribution.png HTTP/1.1[0m" 304 -
+2026-07-03 11:47:55,081 [INFO] 127.0.0.1 - - [03/Jul/2026 11:47:55] "[36mGET /static/plots/gni_vs_hdi_scatter.png HTTP/1.1[0m" 304 -
+2026-07-03 11:47:55,084 [INFO] 127.0.0.1 - - [03/Jul/2026 11:47:55] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2026-07-03 11:48:08,156 [INFO] 127.0.0.1 - - [03/Jul/2026 11:48:08] "GET /api/country/India HTTP/1.1" 200 -
+2026-07-03 11:48:16,522 [INFO] Prediction made for India: HDI 0.683
+2026-07-03 11:48:16,544 [INFO] 127.0.0.1 - - [03/Jul/2026 11:48:16] "POST /predict HTTP/1.1" 200 -
+2026-07-03 11:48:16,563 [INFO] 127.0.0.1 - - [03/Jul/2026 11:48:16] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-03 11:48:16,568 [INFO] 127.0.0.1 - - [03/Jul/2026 11:48:16] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2026-07-03 11:48:25,833 [INFO] 127.0.0.1 - - [03/Jul/2026 11:48:25] "GET / HTTP/1.1" 200 -
+2026-07-03 11:48:25,879 [INFO] 127.0.0.1 - - [03/Jul/2026 11:48:25] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-03 11:48:25,887 [INFO] 127.0.0.1 - - [03/Jul/2026 11:48:25] "[36mGET /static/plots/hdi_distribution.png HTTP/1.1[0m" 304 -
+2026-07-03 11:48:25,899 [INFO] 127.0.0.1 - - [03/Jul/2026 11:48:25] "[36mGET /static/plots/correlation_matrix.png HTTP/1.1[0m" 304 -
+2026-07-03 11:48:25,904 [INFO] 127.0.0.1 - - [03/Jul/2026 11:48:25] "[36mGET /static/plots/gni_vs_hdi_scatter.png HTTP/1.1[0m" 304 -
+2026-07-03 11:48:25,908 [INFO] 127.0.0.1 - - [03/Jul/2026 11:48:25] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2026-07-03 11:48:33,662 [INFO] 127.0.0.1 - - [03/Jul/2026 11:48:33] "GET /api/country/China HTTP/1.1" 200 -
+2026-07-03 11:48:35,230 [INFO] Prediction made for China: HDI 0.809
+2026-07-03 11:48:35,232 [INFO] 127.0.0.1 - - [03/Jul/2026 11:48:35] "POST /predict HTTP/1.1" 200 -
+2026-07-03 11:48:35,258 [INFO] 127.0.0.1 - - [03/Jul/2026 11:48:35] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-03 11:48:35,263 [INFO] 127.0.0.1 - - [03/Jul/2026 11:48:35] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2026-07-03 11:48:42,037 [INFO] 127.0.0.1 - - [03/Jul/2026 11:48:42] "GET / HTTP/1.1" 200 -
+2026-07-03 11:48:42,068 [INFO] 127.0.0.1 - - [03/Jul/2026 11:48:42] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-03 11:48:42,077 [INFO] 127.0.0.1 - - [03/Jul/2026 11:48:42] "[36mGET /static/plots/correlation_matrix.png HTTP/1.1[0m" 304 -
+2026-07-03 11:48:42,080 [INFO] 127.0.0.1 - - [03/Jul/2026 11:48:42] "[36mGET /static/plots/hdi_distribution.png HTTP/1.1[0m" 304 -
+2026-07-03 11:48:42,089 [INFO] 127.0.0.1 - - [03/Jul/2026 11:48:42] "[36mGET /static/plots/gni_vs_hdi_scatter.png HTTP/1.1[0m" 304 -
+2026-07-03 11:48:42,096 [INFO] 127.0.0.1 - - [03/Jul/2026 11:48:42] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2026-07-03 11:48:46,850 [INFO] 127.0.0.1 - - [03/Jul/2026 11:48:46] "GET /api/country/Egypt HTTP/1.1" 200 -
+2026-07-03 11:48:50,904 [INFO] Prediction made for Egypt: HDI 0.804
+2026-07-03 11:48:50,906 [INFO] 127.0.0.1 - - [03/Jul/2026 11:48:50] "POST /predict HTTP/1.1" 200 -
+2026-07-03 11:48:50,933 [INFO] 127.0.0.1 - - [03/Jul/2026 11:48:50] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-03 11:48:50,941 [INFO] 127.0.0.1 - - [03/Jul/2026 11:48:50] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2026-07-03 11:48:56,625 [INFO] 127.0.0.1 - - [03/Jul/2026 11:48:56] "GET / HTTP/1.1" 200 -
+2026-07-03 11:48:56,660 [INFO] 127.0.0.1 - - [03/Jul/2026 11:48:56] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-03 11:48:56,664 [INFO] 127.0.0.1 - - [03/Jul/2026 11:48:56] "[36mGET /static/plots/hdi_distribution.png HTTP/1.1[0m" 304 -
+2026-07-03 11:48:56,673 [INFO] 127.0.0.1 - - [03/Jul/2026 11:48:56] "[36mGET /static/plots/correlation_matrix.png HTTP/1.1[0m" 304 -
+2026-07-03 11:48:56,688 [INFO] 127.0.0.1 - - [03/Jul/2026 11:48:56] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2026-07-03 11:48:56,700 [INFO] 127.0.0.1 - - [03/Jul/2026 11:48:56] "[36mGET /static/plots/gni_vs_hdi_scatter.png HTTP/1.1[0m" 304 -
+2026-07-03 11:49:02,713 [INFO] 127.0.0.1 - - [03/Jul/2026 11:49:02] "GET /api/country/United%20States HTTP/1.1" 200 -
+2026-07-03 11:49:04,785 [INFO] Prediction made for United States: HDI 0.959
+2026-07-03 11:49:04,788 [INFO] 127.0.0.1 - - [03/Jul/2026 11:49:04] "POST /predict HTTP/1.1" 200 -
+2026-07-03 11:49:04,808 [INFO] 127.0.0.1 - - [03/Jul/2026 11:49:04] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-03 11:49:04,815 [INFO] 127.0.0.1 - - [03/Jul/2026 11:49:04] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2026-07-03 11:49:14,962 [INFO] 127.0.0.1 - - [03/Jul/2026 11:49:14] "GET / HTTP/1.1" 200 -
+2026-07-03 11:49:14,987 [INFO] 127.0.0.1 - - [03/Jul/2026 11:49:14] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-03 11:49:14,991 [INFO] 127.0.0.1 - - [03/Jul/2026 11:49:14] "[36mGET /static/plots/correlation_matrix.png HTTP/1.1[0m" 304 -
+2026-07-03 11:49:14,999 [INFO] 127.0.0.1 - - [03/Jul/2026 11:49:14] "[36mGET /static/plots/hdi_distribution.png HTTP/1.1[0m" 304 -
+2026-07-03 11:49:15,007 [INFO] 127.0.0.1 - - [03/Jul/2026 11:49:15] "[36mGET /static/plots/gni_vs_hdi_scatter.png HTTP/1.1[0m" 304 -
+2026-07-03 11:49:15,009 [INFO] 127.0.0.1 - - [03/Jul/2026 11:49:15] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2026-07-03 22:12:28,284 [INFO] ML model loaded successfully.
+2026-07-03 22:12:28,285 [INFO] Feature scaler loaded successfully.
+2026-07-03 22:12:28,290 [INFO] Dataset stats loaded successfully. Total countries: 36
+2026-07-03 22:12:28,321 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-07-03 22:12:28,321 [INFO] [33mPress CTRL+C to quit[0m
+2026-07-03 22:12:28,323 [INFO]  * Restarting with stat
+2026-07-03 22:12:30,851 [INFO] ML model loaded successfully.
+2026-07-03 22:12:30,852 [INFO] Feature scaler loaded successfully.
+2026-07-03 22:12:30,857 [INFO] Dataset stats loaded successfully. Total countries: 36
+2026-07-03 22:12:30,875 [WARNING]  * Debugger is active!
+2026-07-03 22:12:30,879 [INFO]  * Debugger PIN: 140-953-426
+2026-07-03 22:21:08,579 [INFO] ML model loaded successfully.
+2026-07-03 22:21:08,581 [INFO] Feature scaler loaded successfully.
+2026-07-03 22:21:08,590 [INFO] Dataset stats loaded successfully. Total countries: 36
+2026-07-03 22:21:08,644 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-07-03 22:21:08,645 [INFO] [33mPress CTRL+C to quit[0m
+2026-07-03 22:21:08,648 [INFO]  * Restarting with stat
+2026-07-03 22:21:12,792 [INFO] ML model loaded successfully.
+2026-07-03 22:21:12,794 [INFO] Feature scaler loaded successfully.
+2026-07-03 22:21:12,805 [INFO] Dataset stats loaded successfully. Total countries: 36
+2026-07-03 22:21:12,843 [WARNING]  * Debugger is active!
+2026-07-03 22:21:12,849 [INFO]  * Debugger PIN: 140-953-426
+2026-07-03 22:21:27,183 [INFO] 127.0.0.1 - - [03/Jul/2026 22:21:27] "[32mGET / HTTP/1.1[0m" 302 -
+2026-07-03 22:21:27,211 [INFO] 127.0.0.1 - - [03/Jul/2026 22:21:27] "GET /login HTTP/1.1" 200 -
+2026-07-03 22:21:27,378 [INFO] 127.0.0.1 - - [03/Jul/2026 22:21:27] "GET /static/css/style.css HTTP/1.1" 200 -
+2026-07-03 22:21:27,508 [INFO] 127.0.0.1 - - [03/Jul/2026 22:21:27] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+2026-07-03 22:21:27,515 [INFO] 127.0.0.1 - - [03/Jul/2026 22:21:27] "GET /login HTTP/1.1" 200 -
+2026-07-04 11:41:10,901 [INFO] ML model loaded successfully.
+2026-07-04 11:41:10,910 [INFO] Feature scaler loaded successfully.
+2026-07-04 11:41:10,936 [INFO] Dataset stats loaded successfully. Total countries: 36
+2026-07-04 11:41:10,977 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-07-04 11:41:10,977 [INFO] [33mPress CTRL+C to quit[0m
+2026-07-04 11:41:10,980 [INFO]  * Restarting with stat
+2026-07-04 11:41:12,707 [INFO] ML model loaded successfully.
+2026-07-04 11:41:12,707 [INFO] Feature scaler loaded successfully.
+2026-07-04 11:41:12,711 [INFO] Dataset stats loaded successfully. Total countries: 36
+2026-07-04 11:41:12,722 [WARNING]  * Debugger is active!
+2026-07-04 11:41:12,736 [INFO]  * Debugger PIN: 140-953-426
+2026-07-04 11:41:16,636 [INFO] 127.0.0.1 - - [04/Jul/2026 11:41:16] "[32mGET / HTTP/1.1[0m" 302 -
+2026-07-04 11:41:16,702 [INFO] 127.0.0.1 - - [04/Jul/2026 11:41:16] "GET /login HTTP/1.1" 200 -
+2026-07-04 11:41:16,790 [INFO] 127.0.0.1 - - [04/Jul/2026 11:41:16] "GET /static/css/style.css HTTP/1.1" 200 -
+2026-07-04 11:41:20,687 [INFO] User logged in successfully.
+2026-07-04 11:41:20,688 [INFO] 127.0.0.1 - - [04/Jul/2026 11:41:20] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-07-04 11:41:20,736 [INFO] 127.0.0.1 - - [04/Jul/2026 11:41:20] "GET / HTTP/1.1" 200 -
+2026-07-04 11:41:20,756 [INFO] 127.0.0.1 - - [04/Jul/2026 11:41:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-04 11:41:20,767 [INFO] 127.0.0.1 - - [04/Jul/2026 11:41:20] "GET /static/plots/correlation_matrix.png HTTP/1.1" 200 -
+2026-07-04 11:41:20,767 [INFO] 127.0.0.1 - - [04/Jul/2026 11:41:20] "GET /static/plots/hdi_distribution.png HTTP/1.1" 200 -
+2026-07-04 11:41:20,774 [INFO] 127.0.0.1 - - [04/Jul/2026 11:41:20] "GET /static/plots/gni_vs_hdi_scatter.png HTTP/1.1" 200 -
+2026-07-04 11:41:20,793 [INFO] 127.0.0.1 - - [04/Jul/2026 11:41:20] "GET /static/js/script.js HTTP/1.1" 200 -
+2026-07-04 11:41:20,841 [INFO] 127.0.0.1 - - [04/Jul/2026 11:41:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-04 11:41:29,759 [INFO] 127.0.0.1 - - [04/Jul/2026 11:41:29] "GET /api/country/Australia HTTP/1.1" 200 -
+2026-07-04 11:42:05,642 [INFO] Prediction made for Australia: HDI 0.901
+2026-07-04 11:42:05,669 [INFO] 127.0.0.1 - - [04/Jul/2026 11:42:05] "POST /predict HTTP/1.1" 200 -
+2026-07-04 11:42:05,686 [INFO] 127.0.0.1 - - [04/Jul/2026 11:42:05] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-04 11:42:05,689 [INFO] 127.0.0.1 - - [04/Jul/2026 11:42:05] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2026-07-04 11:42:05,725 [INFO] 127.0.0.1 - - [04/Jul/2026 11:42:05] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-04 11:42:17,140 [INFO] 127.0.0.1 - - [04/Jul/2026 11:42:17] "GET / HTTP/1.1" 200 -
+2026-07-04 11:42:17,159 [INFO] 127.0.0.1 - - [04/Jul/2026 11:42:17] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-04 11:42:17,161 [INFO] 127.0.0.1 - - [04/Jul/2026 11:42:17] "[36mGET /static/plots/correlation_matrix.png HTTP/1.1[0m" 304 -
+2026-07-04 11:42:17,164 [INFO] 127.0.0.1 - - [04/Jul/2026 11:42:17] "[36mGET /static/plots/hdi_distribution.png HTTP/1.1[0m" 304 -
+2026-07-04 11:42:17,168 [INFO] 127.0.0.1 - - [04/Jul/2026 11:42:17] "[36mGET /static/plots/gni_vs_hdi_scatter.png HTTP/1.1[0m" 304 -
+2026-07-04 11:42:17,171 [INFO] 127.0.0.1 - - [04/Jul/2026 11:42:17] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2026-07-04 11:42:47,623 [INFO] User logged out.
+2026-07-04 11:42:47,623 [INFO] 127.0.0.1 - - [04/Jul/2026 11:42:47] "[32mGET /logout HTTP/1.1[0m" 302 -
+2026-07-04 11:42:47,627 [INFO] 127.0.0.1 - - [04/Jul/2026 11:42:47] "GET /login HTTP/1.1" 200 -
+2026-07-04 11:42:47,644 [INFO] 127.0.0.1 - - [04/Jul/2026 11:42:47] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-04 11:42:47,681 [INFO] 127.0.0.1 - - [04/Jul/2026 11:42:47] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-04 12:12:16,680 [INFO] ML model loaded successfully.
+2026-07-04 12:12:16,682 [INFO] Feature scaler loaded successfully.
+2026-07-04 12:12:16,693 [INFO] Dataset stats loaded successfully. Total countries: 36
+2026-07-04 12:12:16,720 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-07-04 12:12:16,721 [INFO] [33mPress CTRL+C to quit[0m
+2026-07-04 12:12:16,723 [INFO]  * Restarting with stat
+2026-07-04 12:12:18,494 [INFO] ML model loaded successfully.
+2026-07-04 12:12:18,495 [INFO] Feature scaler loaded successfully.
+2026-07-04 12:12:18,499 [INFO] Dataset stats loaded successfully. Total countries: 36
+2026-07-04 12:12:18,510 [WARNING]  * Debugger is active!
+2026-07-04 12:12:18,525 [INFO]  * Debugger PIN: 140-953-426
+2026-07-04 12:12:23,011 [INFO] 127.0.0.1 - - [04/Jul/2026 12:12:23] "[32mGET / HTTP/1.1[0m" 302 -
+2026-07-04 12:12:23,034 [INFO] 127.0.0.1 - - [04/Jul/2026 12:12:23] "GET /login HTTP/1.1" 200 -
+2026-07-04 12:12:23,130 [INFO] 127.0.0.1 - - [04/Jul/2026 12:12:23] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-04 12:12:29,938 [INFO] User logged in successfully.
+2026-07-04 12:12:29,938 [INFO] 127.0.0.1 - - [04/Jul/2026 12:12:29] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-07-04 12:12:29,957 [INFO] 127.0.0.1 - - [04/Jul/2026 12:12:29] "GET / HTTP/1.1" 200 -
+2026-07-04 12:12:29,976 [INFO] 127.0.0.1 - - [04/Jul/2026 12:12:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-04 12:12:29,977 [INFO] 127.0.0.1 - - [04/Jul/2026 12:12:29] "[36mGET /static/plots/correlation_matrix.png HTTP/1.1[0m" 304 -
+2026-07-04 12:12:29,979 [INFO] 127.0.0.1 - - [04/Jul/2026 12:12:29] "[36mGET /static/plots/hdi_distribution.png HTTP/1.1[0m" 304 -
+2026-07-04 12:12:29,987 [INFO] 127.0.0.1 - - [04/Jul/2026 12:12:29] "[36mGET /static/plots/gni_vs_hdi_scatter.png HTTP/1.1[0m" 304 -
+2026-07-04 12:12:29,987 [INFO] 127.0.0.1 - - [04/Jul/2026 12:12:29] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2026-07-04 12:12:50,606 [INFO] 127.0.0.1 - - [04/Jul/2026 12:12:50] "GET /api/country/China HTTP/1.1" 200 -
+2026-07-04 12:13:29,374 [INFO] Prediction made for China: HDI 0.599
+2026-07-04 12:13:29,381 [INFO] 127.0.0.1 - - [04/Jul/2026 12:13:29] "POST /predict HTTP/1.1" 200 -
+2026-07-04 12:13:29,398 [INFO] 127.0.0.1 - - [04/Jul/2026 12:13:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-04 12:13:29,399 [INFO] 127.0.0.1 - - [04/Jul/2026 12:13:29] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2026-07-04 12:13:29,440 [INFO] 127.0.0.1 - - [04/Jul/2026 12:13:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-04 12:13:50,617 [INFO] User logged out.
+2026-07-04 12:13:50,618 [INFO] 127.0.0.1 - - [04/Jul/2026 12:13:50] "[32mGET /logout HTTP/1.1[0m" 302 -
+2026-07-04 12:13:50,622 [INFO] 127.0.0.1 - - [04/Jul/2026 12:13:50] "GET /login HTTP/1.1" 200 -
+2026-07-04 12:13:50,634 [INFO] 127.0.0.1 - - [04/Jul/2026 12:13:50] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-04 12:13:50,664 [INFO] 127.0.0.1 - - [04/Jul/2026 12:13:50] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-05 09:22:53,204 [INFO] ML model loaded successfully.
+2026-07-05 09:22:53,205 [INFO] Feature scaler loaded successfully.
+2026-07-05 09:22:53,225 [INFO] Dataset stats loaded successfully. Total countries: 36
+2026-07-05 09:22:53,259 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-07-05 09:22:53,259 [INFO] [33mPress CTRL+C to quit[0m
+2026-07-05 09:22:53,262 [INFO]  * Restarting with stat
+2026-07-05 09:22:55,228 [INFO] ML model loaded successfully.
+2026-07-05 09:22:55,229 [INFO] Feature scaler loaded successfully.
+2026-07-05 09:22:55,233 [INFO] Dataset stats loaded successfully. Total countries: 36
+2026-07-05 09:22:55,246 [WARNING]  * Debugger is active!
+2026-07-05 09:22:55,250 [INFO]  * Debugger PIN: 140-953-426
+2026-07-05 09:26:04,451 [INFO] 127.0.0.1 - - [05/Jul/2026 09:26:04] "[32mGET / HTTP/1.1[0m" 302 -
+2026-07-05 09:26:04,509 [INFO] 127.0.0.1 - - [05/Jul/2026 09:26:04] "GET /login HTTP/1.1" 200 -
+2026-07-05 09:26:04,613 [INFO] 127.0.0.1 - - [05/Jul/2026 09:26:04] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-05 09:26:04,688 [INFO] 127.0.0.1 - - [05/Jul/2026 09:26:04] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+2026-07-05 09:26:04,692 [INFO] 127.0.0.1 - - [05/Jul/2026 09:26:04] "GET /login HTTP/1.1" 200 -
+2026-07-05 09:26:16,207 [INFO] User logged in successfully.
+2026-07-05 09:26:16,209 [INFO] 127.0.0.1 - - [05/Jul/2026 09:26:16] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-07-05 09:26:16,257 [INFO] 127.0.0.1 - - [05/Jul/2026 09:26:16] "GET / HTTP/1.1" 200 -
+2026-07-05 09:26:16,291 [INFO] 127.0.0.1 - - [05/Jul/2026 09:26:16] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-05 09:26:16,293 [INFO] 127.0.0.1 - - [05/Jul/2026 09:26:16] "GET /static/plots/hdi_distribution.png HTTP/1.1" 200 -
+2026-07-05 09:26:16,293 [INFO] 127.0.0.1 - - [05/Jul/2026 09:26:16] "GET /static/plots/correlation_matrix.png HTTP/1.1" 200 -
+2026-07-05 09:26:16,295 [INFO] 127.0.0.1 - - [05/Jul/2026 09:26:16] "GET /static/plots/gni_vs_hdi_scatter.png HTTP/1.1" 200 -
+2026-07-05 09:26:16,326 [INFO] 127.0.0.1 - - [05/Jul/2026 09:26:16] "GET /static/js/script.js HTTP/1.1" 200 -
+2026-07-05 09:26:16,444 [INFO] 127.0.0.1 - - [05/Jul/2026 09:26:16] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-07-05 09:27:03,106 [INFO] 127.0.0.1 - - [05/Jul/2026 09:27:03] "GET /api/country/India HTTP/1.1" 200 -
+2026-07-05 09:29:48,536 [INFO] Prediction made for India: HDI 0.631
+2026-07-05 09:29:48,543 [INFO] 127.0.0.1 - - [05/Jul/2026 09:29:48] "POST /predict HTTP/1.1" 200 -
+2026-07-05 09:29:48,571 [INFO] 127.0.0.1 - - [05/Jul/2026 09:29:48] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-05 09:29:48,573 [INFO] 127.0.0.1 - - [05/Jul/2026 09:29:48] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2026-07-05 09:30:13,324 [INFO] 127.0.0.1 - - [05/Jul/2026 09:30:13] "GET / HTTP/1.1" 200 -
+2026-07-05 09:30:13,347 [INFO] 127.0.0.1 - - [05/Jul/2026 09:30:13] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-05 09:30:13,349 [INFO] 127.0.0.1 - - [05/Jul/2026 09:30:13] "[36mGET /static/plots/correlation_matrix.png HTTP/1.1[0m" 304 -
+2026-07-05 09:30:13,352 [INFO] 127.0.0.1 - - [05/Jul/2026 09:30:13] "[36mGET /static/plots/hdi_distribution.png HTTP/1.1[0m" 304 -
+2026-07-05 09:30:13,356 [INFO] 127.0.0.1 - - [05/Jul/2026 09:30:13] "[36mGET /static/plots/gni_vs_hdi_scatter.png HTTP/1.1[0m" 304 -
+2026-07-05 09:30:13,359 [INFO] 127.0.0.1 - - [05/Jul/2026 09:30:13] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2026-07-05 09:30:46,909 [INFO] 127.0.0.1 - - [05/Jul/2026 09:30:46] "GET /api/country/India HTTP/1.1" 200 -
+2026-07-05 09:31:20,367 [INFO] Prediction made for India: HDI 0.68
+2026-07-05 09:31:20,368 [INFO] 127.0.0.1 - - [05/Jul/2026 09:31:20] "POST /predict HTTP/1.1" 200 -
+2026-07-05 09:31:20,400 [INFO] 127.0.0.1 - - [05/Jul/2026 09:31:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-05 09:31:20,405 [INFO] 127.0.0.1 - - [05/Jul/2026 09:31:20] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2026-07-05 09:31:40,266 [INFO] 127.0.0.1 - - [05/Jul/2026 09:31:40] "GET / HTTP/1.1" 200 -
+2026-07-05 09:31:40,295 [INFO] 127.0.0.1 - - [05/Jul/2026 09:31:40] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-05 09:31:40,297 [INFO] 127.0.0.1 - - [05/Jul/2026 09:31:40] "[36mGET /static/plots/correlation_matrix.png HTTP/1.1[0m" 304 -
+2026-07-05 09:31:40,300 [INFO] 127.0.0.1 - - [05/Jul/2026 09:31:40] "[36mGET /static/plots/hdi_distribution.png HTTP/1.1[0m" 304 -
+2026-07-05 09:31:40,304 [INFO] 127.0.0.1 - - [05/Jul/2026 09:31:40] "[36mGET /static/plots/gni_vs_hdi_scatter.png HTTP/1.1[0m" 304 -
+2026-07-05 09:31:40,307 [INFO] 127.0.0.1 - - [05/Jul/2026 09:31:40] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2026-07-05 09:31:45,466 [INFO] User logged out.
+2026-07-05 09:31:45,467 [INFO] 127.0.0.1 - - [05/Jul/2026 09:31:45] "[32mGET /logout HTTP/1.1[0m" 302 -
+2026-07-05 09:31:45,474 [INFO] 127.0.0.1 - - [05/Jul/2026 09:31:45] "GET /login HTTP/1.1" 200 -
+2026-07-05 09:31:45,497 [INFO] 127.0.0.1 - - [05/Jul/2026 09:31:45] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-05 12:10:27,644 [INFO] 127.0.0.1 - - [05/Jul/2026 12:10:27] "[32mGET / HTTP/1.1[0m" 302 -
+2026-07-05 12:10:27,654 [INFO] 127.0.0.1 - - [05/Jul/2026 12:10:27] "GET /login HTTP/1.1" 200 -
+2026-07-05 12:10:27,731 [INFO] 127.0.0.1 - - [05/Jul/2026 12:10:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-05 12:10:42,195 [INFO] User logged in successfully.
+2026-07-05 12:10:42,196 [INFO] 127.0.0.1 - - [05/Jul/2026 12:10:42] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-07-05 12:10:42,220 [INFO] 127.0.0.1 - - [05/Jul/2026 12:10:42] "GET / HTTP/1.1" 200 -
+2026-07-05 12:10:42,243 [INFO] 127.0.0.1 - - [05/Jul/2026 12:10:42] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-05 12:10:42,244 [INFO] 127.0.0.1 - - [05/Jul/2026 12:10:42] "[36mGET /static/plots/correlation_matrix.png HTTP/1.1[0m" 304 -
+2026-07-05 12:10:42,245 [INFO] 127.0.0.1 - - [05/Jul/2026 12:10:42] "[36mGET /static/plots/hdi_distribution.png HTTP/1.1[0m" 304 -
+2026-07-05 12:10:42,254 [INFO] 127.0.0.1 - - [05/Jul/2026 12:10:42] "[36mGET /static/plots/gni_vs_hdi_scatter.png HTTP/1.1[0m" 304 -
+2026-07-05 12:10:42,285 [INFO] 127.0.0.1 - - [05/Jul/2026 12:10:42] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2026-07-05 12:15:05,960 [INFO] 127.0.0.1 - - [05/Jul/2026 12:15:05] "GET /api/country/Australia HTTP/1.1" 200 -
+2026-07-05 12:15:09,249 [INFO] Prediction made for Australia: HDI 0.971
+2026-07-05 12:15:09,250 [INFO] 127.0.0.1 - - [05/Jul/2026 12:15:09] "POST /predict HTTP/1.1" 200 -
+2026-07-05 12:15:09,277 [INFO] 127.0.0.1 - - [05/Jul/2026 12:15:09] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-05 12:15:09,280 [INFO] 127.0.0.1 - - [05/Jul/2026 12:15:09] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2026-07-05 12:15:09,337 [INFO] 127.0.0.1 - - [05/Jul/2026 12:15:09] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
